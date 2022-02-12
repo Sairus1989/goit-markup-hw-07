@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,AAAC,CACF,oBAAoB,CAAA,OAAC,CACrB,kBAAkB,CAAA,OAAC,CACnB,cAAc,CAAA,OAAC,CACf,YAAY,CAAA,OAAC,CACb,iBAAiB,CAAA,4BAAC,CACjB,AACD,AAAA,IAAI,AAAC,CACL,KAAK,CAAE,yBAAyB,CAChC,WAAW,CAAE,iBAAiB,CAC9B,UAAU,CAAE,MAAM,CACjB,ACXL,AAAA,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,EAAE,CACF,CAAC,AAAC,CACE,MAAM,CAAE,CAAC,CACZ,AACD,AAAA,GAAG,AAAC,CACA,OAAO,CAAE,KAAK,CACd,SAAS,CAAE,IAAI,CACf,MAAM,CAAE,IAAI,CACf,AACD,AAAA,EAAE,AAAC,CACC,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,IAAI,CACjB,CClBH,AAAA,AAAA,IAAC,AAAA,CAAM,CACH,eAAe,CAAE,IAAI,CACtB,ACFH,AAAA,OAAO,AAAC,CACJ,OAAO,CAAE,IAAI,CACd",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/base/_reset.scss",
+        "../sass/base/_common.scss",
+        "../sass/utils/_hidden.scss",
+        "../sass/utils/_placeholders.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
