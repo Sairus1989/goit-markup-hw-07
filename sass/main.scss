@@ -3,4 +3,12 @@
 @import './base/common';
 @import './utils/hidden';
 @import './utils/placeholders';
-@import './utils/mixins;
+@import './utils/mixins';
+
+// COMPONENTS
+@import './components/container';
+@import './components/logo';
+@import './components/hero-btn';
+@import './components/online-btn';
+@import './components/portfolio-btn';
+@import './components/modal';
