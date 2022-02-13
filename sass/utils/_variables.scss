@@ -5,8 +5,12 @@
     --icon-color:#AFB1B8;
     --timing-function:cubic-bezier(0.4, 0, 0.2, 1);
     }
-    body {
-    color: var(--primary-text-color);
+body {
+    
     font-family: Roboto, monospace;
     font-style: normal;
-    }
+}
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}

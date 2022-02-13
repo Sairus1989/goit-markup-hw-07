@@ -90,7 +90,7 @@ color: #000000;
 }
 .top-list__link {
 display: block;
-color: #212121;
+color: var(--title-text-color);
 padding-top: 32px;
 padding-bottom: 32px;
 }
@@ -184,7 +184,6 @@ border-radius: 2px;
     letter-spacing: 0.06em;
     margin-bottom: 30px;
     text-transform: uppercase;
-    
 }
 
 /* Button */
