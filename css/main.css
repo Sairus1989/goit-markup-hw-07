@@ -39,7 +39,7 @@ ul {
   list-style: none;
 }
 
-[href] {
+a {
   text-decoration: none;
 }
 
@@ -453,9 +453,11 @@ checkbox__icon {
 .top-list__link {
   display: block;
   color: var(--title-text-color);
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
-.bottom-list__link, .top-list__link {
+.bottom-list__link {
   padding-top: 32px;
   padding-bottom: 32px;
 }
@@ -499,16 +501,16 @@ checkbox__icon {
   color: #2196F3;
 }
 
-.bottom-list__link, .top-list__link {
+.bottom-list__link {
   -webkit-transition: color 250ms var(--timing-function);
   transition: color 250ms var(--timing-function);
 }
 
-.bottom-list__link:hover, .top-list__link:hover, .bottom-list__link:focus, .top-list__link:focus {
+.bottom-list__link:hover, .bottom-list__link:focus {
   color: #2196F3;
 }
 
-.bottom-list__link, .top-list__link {
+.bottom-list__link {
   color: var(--primary-text-color);
 }
 
